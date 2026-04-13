@@ -11,4 +11,4 @@ create a .gitignore files
 make commits
 
 ## Contributing
-Pull requests are welocme. for major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. for major changes, please open an issue first to discuss what you would like to change.
